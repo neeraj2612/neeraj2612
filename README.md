@@ -4,7 +4,7 @@
   
 
 ### <div align="center">Hi 👋, I'm Neeraj singh saini
-                 A passionate frontend developer from India</div>  
+                 I am a passionate frontend developer with a focus on creating beautiful and intuitive user interfaces.
   
 
 - 🔭 I’m currently working on developing my Skills  
